@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+.bg-custom {
+    background-image: url('images/bg-curvy-desktop.svg');
+    background-repeat: no-repeat;
+    background-position:20% 24%;
+  }
+  .bg-custom-m {
+    background-image: url('images/bg-curvy-desktop.svg');
+    background-repeat: no-repeat;
+    background-position:top;
+  }
+@tailwind utilities;
